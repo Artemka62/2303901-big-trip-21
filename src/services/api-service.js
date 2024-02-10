@@ -8,7 +8,7 @@ class ApiService extends Service {
    */
   constructor(options) {
     super({
-      baseUrl:  'https://21.objects.pages.academy/big-trip/',
+      baseUrl:  'https://21.objects.htmlacademy.pro/big-trip/',
       authorization: '',
       minResponseTime: 500,
       ...options
